@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ランニング部（SAMPLE）</title>
+    <link>https://simichandesu.github.io/tags/</link>
+    <description>Recent content in Tags on ランニング部（SAMPLE）</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    
+	<atom:link href="https://simichandesu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ファンラン</title>
+      <link>https://simichandesu.github.io/tags/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%A9%E3%83%B3/</link>
+      <pubDate>Sat, 01 Jul 2017 16:05:45 +0900</pubDate>
+      
+      <guid>https://simichandesu.github.io/tags/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%A9%E3%83%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>レース</title>
+      <link>https://simichandesu.github.io/tags/%E3%83%AC%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Sat, 01 Jul 2017 16:05:45 +0900</pubDate>
+      
+      <guid>https://simichandesu.github.io/tags/%E3%83%AC%E3%83%BC%E3%82%B9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>参加者募集</title>
+      <link>https://simichandesu.github.io/tags/%E5%8F%82%E5%8A%A0%E8%80%85%E5%8B%9F%E9%9B%86/</link>
+      <pubDate>Sat, 01 Jul 2017 16:05:52 +0900</pubDate>
+      
+      <guid>https://simichandesu.github.io/tags/%E5%8F%82%E5%8A%A0%E8%80%85%E5%8B%9F%E9%9B%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>定期練習</title>
+      <link>https://simichandesu.github.io/tags/%E5%AE%9A%E6%9C%9F%E7%B7%B4%E7%BF%92/</link>
+      <pubDate>Sat, 01 Jul 2017 16:05:52 +0900</pubDate>
+      
+      <guid>https://simichandesu.github.io/tags/%E5%AE%9A%E6%9C%9F%E7%B7%B4%E7%BF%92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>駅伝</title>
+      <link>https://simichandesu.github.io/tags/%E9%A7%85%E4%BC%9D/</link>
+      <pubDate>Sat, 01 Jul 2017 16:05:45 +0900</pubDate>
+      
+      <guid>https://simichandesu.github.io/tags/%E9%A7%85%E4%BC%9D/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

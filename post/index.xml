@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ランニング部（SAMPLE）</title>
+    <link>https://simichandesu.github.io/post/</link>
+    <description>Recent content in Posts on ランニング部（SAMPLE）</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 01 Jul 2017 15:16:43 +0900</lastBuildDate>
+    
+	<atom:link href="https://simichandesu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>7th_post</title>
+      <link>https://simichandesu.github.io/2017/07/7th_post/</link>
+      <pubDate>Sat, 01 Jul 2017 15:16:43 +0900</pubDate>
+      
+      <guid>https://simichandesu.github.io/2017/07/7th_post/</guid>
+      <description>ここに本文を入力</description>
+    </item>
+    
+    <item>
+      <title>6th_post</title>
+      <link>https://simichandesu.github.io/2017/07/6th_post/</link>
+      <pubDate>Sat, 01 Jul 2017 15:16:37 +0900</pubDate>
+      
+      <guid>https://simichandesu.github.io/2017/07/6th_post/</guid>
+      <description>ここに本文を入力</description>
+    </item>
+    
+    <item>
+      <title>5th_post</title>
+      <link>https://simichandesu.github.io/2017/07/5th_post/</link>
+      <pubDate>Sat, 01 Jul 2017 15:16:30 +0900</pubDate>
+      
+      <guid>https://simichandesu.github.io/2017/07/5th_post/</guid>
+      <description>ここに本文を入力</description>
+    </item>
+    
+    <item>
+      <title>4th_post</title>
+      <link>https://simichandesu.github.io/2017/07/4th_post/</link>
+      <pubDate>Sat, 01 Jul 2017 15:16:23 +0900</pubDate>
+      
+      <guid>https://simichandesu.github.io/2017/07/4th_post/</guid>
+      <description>ここに本文を入力</description>
+    </item>
+    
+    <item>
+      <title>3rd_post</title>
+      <link>https://simichandesu.github.io/2017/07/3rd_post/</link>
+      <pubDate>Sat, 01 Jul 2017 15:16:15 +0900</pubDate>
+      
+      <guid>https://simichandesu.github.io/2017/07/3rd_post/</guid>
+      <description>ここに本文を入力</description>
+    </item>
+    
+    <item>
+      <title>2nd_post</title>
+      <link>https://simichandesu.github.io/2017/07/2nd_post/</link>
+      <pubDate>Sat, 01 Jul 2017 15:16:06 +0900</pubDate>
+      
+      <guid>https://simichandesu.github.io/2017/07/2nd_post/</guid>
+      <description>ここに本文を入力</description>
+    </item>
+    
+    <item>
+      <title>1st_post</title>
+      <link>https://simichandesu.github.io/2017/07/1st_post/</link>
+      <pubDate>Sat, 01 Jul 2017 15:15:55 +0900</pubDate>
+      
+      <guid>https://simichandesu.github.io/2017/07/1st_post/</guid>
+      <description>ここに本文を入力</description>
+    </item>
+    
+    <item>
+      <title>Good To Great</title>
+      <link>https://simichandesu.github.io/2017/07/good-to-great/</link>
+      <pubDate>Sat, 01 Jul 2017 14:55:36 +0900</pubDate>
+      
+      <guid>https://simichandesu.github.io/2017/07/good-to-great/</guid>
+      <description>ここに本文を入力</description>
+    </item>
+    
+  </channel>
+</rss>
